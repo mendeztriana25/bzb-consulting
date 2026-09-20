@@ -1,1 +1,1 @@
-# bzb.consulting
+# bzb-consulting
